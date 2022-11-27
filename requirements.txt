@@ -1,5 +1,4 @@
 aiofiles==0.5.0
-[200~aiofiles==0.5.0
 aniso8601==7.0.0
 ansible-lint==5.0.7
 astroid==2.5.1

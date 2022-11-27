@@ -24,6 +24,7 @@ spec:
     metadata:
       labels:
         app: hello 
+        
     spec:
       containers:
         - name: hello
